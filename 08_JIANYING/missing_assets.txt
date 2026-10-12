@@ -1,0 +1,73 @@
+SCI_VIDEO_001_Optogenetics｜预期素材与缺失清单
+
+本项目只创建文本规划；以下视听文件均不存在。路径均相对项目根目录。
+制作路径：先生成/复核26张关键帧，再生成26段视频；也可用关键帧等时长替补相应视频。最终V1共有26个镜头槽位，每槽只放视频或对应图片之一。
+
+一、预期视频：26项，全部待生成、待科学审核；标准版需全部到位。
+
+[待生成] S01｜02_VIDEO/S01_blue_light_question.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S02｜02_VIDEO/S02_engineered_light_sensitivity.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S03｜02_VIDEO/S03_neuron_membrane_potential.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S04｜02_VIDEO/S04_light_sensitive_gate.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S05｜02_VIDEO/S05_algae_origin.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S06｜02_VIDEO/S06_channelrhodopsin_two.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S07｜02_VIDEO/S07_targeted_gene_delivery.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S08｜02_VIDEO/S08_opsin_in_membrane.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S09｜02_VIDEO/S09_local_light_delivery.mp4｜10秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S10｜02_VIDEO/S10_photon_opens_channel.mp4｜10秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S11｜02_VIDEO/S11_cation_inward_current.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S12｜02_VIDEO/S12_membrane_depolarization.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S13｜02_VIDEO/S13_action_potential_threshold.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S14｜02_VIDEO/S14_signal_through_circuit.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S15｜02_VIDEO/S15_precise_light_pulses.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S16｜02_VIDEO/S16_cell_type_selectivity.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S17｜02_VIDEO/S17_causal_experiment_question.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S18｜02_VIDEO/S18_movement_research_example.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S19｜02_VIDEO/S19_interpretation_and_replication.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S20｜02_VIDEO/S20_excitation_and_inhibition.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S21｜02_VIDEO/S21_experimental_controls.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S22｜02_VIDEO/S22_scattering_and_attenuation.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S23｜02_VIDEO/S23_human_translation_limits.mp4｜9秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S24｜02_VIDEO/S24_not_mind_reading.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S25｜02_VIDEO/S25_mechanism_recap.mp4｜8秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+[待生成] S26｜02_VIDEO/S26_closing_question.mp4｜7秒｜1920×1080、16:9、30fps、H.264 MP4、无声
+
+二、预期图片：26项，全部待生成；作为关键帧/备用画面，不重复占用主轨时长。
+
+[待生成] S01｜03_IMAGES/S01_blue_light_question.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S02｜03_IMAGES/S02_engineered_light_sensitivity.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S03｜03_IMAGES/S03_neuron_membrane_potential.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S04｜03_IMAGES/S04_light_sensitive_gate.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S05｜03_IMAGES/S05_algae_origin.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S06｜03_IMAGES/S06_channelrhodopsin_two.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S07｜03_IMAGES/S07_targeted_gene_delivery.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S08｜03_IMAGES/S08_opsin_in_membrane.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S09｜03_IMAGES/S09_local_light_delivery.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S10｜03_IMAGES/S10_photon_opens_channel.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S11｜03_IMAGES/S11_cation_inward_current.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S12｜03_IMAGES/S12_membrane_depolarization.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S13｜03_IMAGES/S13_action_potential_threshold.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S14｜03_IMAGES/S14_signal_through_circuit.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S15｜03_IMAGES/S15_precise_light_pulses.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S16｜03_IMAGES/S16_cell_type_selectivity.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S17｜03_IMAGES/S17_causal_experiment_question.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S18｜03_IMAGES/S18_movement_research_example.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S19｜03_IMAGES/S19_interpretation_and_replication.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S20｜03_IMAGES/S20_excitation_and_inhibition.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S21｜03_IMAGES/S21_experimental_controls.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S22｜03_IMAGES/S22_scattering_and_attenuation.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S23｜03_IMAGES/S23_human_translation_limits.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S24｜03_IMAGES/S24_not_mind_reading.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S25｜03_IMAGES/S25_mechanism_recap.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+[待生成] S26｜03_IMAGES/S26_closing_question.png｜1920×1080 PNG｜生成关键帧或该镜头等时长替补
+
+三、音频：2项（1项必需，1项可选），不规划独立音效文件。
+[必需，待录制/合成] 05_AUDIO/narration_zh.wav｜中文完整旁白223秒（含停顿），48kHz PCM WAV
+[可选，待选曲] 05_AUDIO/bgm_ambient.wav｜无歌词低音量氛围配乐，48kHz PCM WAV；须核对授权；可完全省略
+
+四、已创建文本/需编辑器内制作的项目：
+[文本已创建，时间待配音复核] 06_SUBTITLES/subtitles.srt｜52条字幕
+[待剪映内创建] T1文字与科学图形｜见timeline.csv；无单独媒体路径
+[待最终导出] 09_EXPORT/SCI_VIDEO_001_Optogenetics_1080p_zh.mp4｜非输入素材
+
+素材数量：26视频 + 26图片 + 1必需旁白 + 1可选配乐 = 54项预期视听文件。现阶段54项均未制作；标准成片必需26视频槽位（允许图片替补）和1条旁白。

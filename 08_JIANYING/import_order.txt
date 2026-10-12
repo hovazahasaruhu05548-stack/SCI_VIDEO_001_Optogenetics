@@ -1,0 +1,117 @@
+SCI_VIDEO_001_Optogenetics｜剪映素材导入与播放顺序
+
+总时长223秒（03:43），26镜头。以下媒体文件尚未生成。按相对项目根目录的路径查找。
+
+每组先列正式视频，再列对应PNG。将MP4按S01—S26铺入V1主轨；PNG导入素材库作为生成参考或等时长替补，不在MP4后追加。若用PNG，替换该镜头并按规定时长加轻微推拉。
+
+S01｜00:00:00.000 --> 00:00:08.000｜8秒
+  主轨视频：02_VIDEO/S01_blue_light_question.mp4
+  关键帧/替补：03_IMAGES/S01_blue_light_question.png
+
+S02｜00:00:08.000 --> 00:00:16.000｜8秒
+  主轨视频：02_VIDEO/S02_engineered_light_sensitivity.mp4
+  关键帧/替补：03_IMAGES/S02_engineered_light_sensitivity.png
+
+S03｜00:00:16.000 --> 00:00:25.000｜9秒
+  主轨视频：02_VIDEO/S03_neuron_membrane_potential.mp4
+  关键帧/替补：03_IMAGES/S03_neuron_membrane_potential.png
+
+S04｜00:00:25.000 --> 00:00:34.000｜9秒
+  主轨视频：02_VIDEO/S04_light_sensitive_gate.mp4
+  关键帧/替补：03_IMAGES/S04_light_sensitive_gate.png
+
+S05｜00:00:34.000 --> 00:00:42.000｜8秒
+  主轨视频：02_VIDEO/S05_algae_origin.mp4
+  关键帧/替补：03_IMAGES/S05_algae_origin.png
+
+S06｜00:00:42.000 --> 00:00:51.000｜9秒
+  主轨视频：02_VIDEO/S06_channelrhodopsin_two.mp4
+  关键帧/替补：03_IMAGES/S06_channelrhodopsin_two.png
+
+S07｜00:00:51.000 --> 00:01:00.000｜9秒
+  主轨视频：02_VIDEO/S07_targeted_gene_delivery.mp4
+  关键帧/替补：03_IMAGES/S07_targeted_gene_delivery.png
+
+S08｜00:01:00.000 --> 00:01:09.000｜9秒
+  主轨视频：02_VIDEO/S08_opsin_in_membrane.mp4
+  关键帧/替补：03_IMAGES/S08_opsin_in_membrane.png
+
+S09｜00:01:09.000 --> 00:01:19.000｜10秒
+  主轨视频：02_VIDEO/S09_local_light_delivery.mp4
+  关键帧/替补：03_IMAGES/S09_local_light_delivery.png
+
+S10｜00:01:19.000 --> 00:01:29.000｜10秒
+  主轨视频：02_VIDEO/S10_photon_opens_channel.mp4
+  关键帧/替补：03_IMAGES/S10_photon_opens_channel.png
+
+S11｜00:01:29.000 --> 00:01:38.000｜9秒
+  主轨视频：02_VIDEO/S11_cation_inward_current.mp4
+  关键帧/替补：03_IMAGES/S11_cation_inward_current.png
+
+S12｜00:01:38.000 --> 00:01:47.000｜9秒
+  主轨视频：02_VIDEO/S12_membrane_depolarization.mp4
+  关键帧/替补：03_IMAGES/S12_membrane_depolarization.png
+
+S13｜00:01:47.000 --> 00:01:55.000｜8秒
+  主轨视频：02_VIDEO/S13_action_potential_threshold.mp4
+  关键帧/替补：03_IMAGES/S13_action_potential_threshold.png
+
+S14｜00:01:55.000 --> 00:02:03.000｜8秒
+  主轨视频：02_VIDEO/S14_signal_through_circuit.mp4
+  关键帧/替补：03_IMAGES/S14_signal_through_circuit.png
+
+S15｜00:02:03.000 --> 00:02:11.000｜8秒
+  主轨视频：02_VIDEO/S15_precise_light_pulses.mp4
+  关键帧/替补：03_IMAGES/S15_precise_light_pulses.png
+
+S16｜00:02:11.000 --> 00:02:20.000｜9秒
+  主轨视频：02_VIDEO/S16_cell_type_selectivity.mp4
+  关键帧/替补：03_IMAGES/S16_cell_type_selectivity.png
+
+S17｜00:02:20.000 --> 00:02:29.000｜9秒
+  主轨视频：02_VIDEO/S17_causal_experiment_question.mp4
+  关键帧/替补：03_IMAGES/S17_causal_experiment_question.png
+
+S18｜00:02:29.000 --> 00:02:37.000｜8秒
+  主轨视频：02_VIDEO/S18_movement_research_example.mp4
+  关键帧/替补：03_IMAGES/S18_movement_research_example.png
+
+S19｜00:02:37.000 --> 00:02:45.000｜8秒
+  主轨视频：02_VIDEO/S19_interpretation_and_replication.mp4
+  关键帧/替补：03_IMAGES/S19_interpretation_and_replication.png
+
+S20｜00:02:45.000 --> 00:02:54.000｜9秒
+  主轨视频：02_VIDEO/S20_excitation_and_inhibition.mp4
+  关键帧/替补：03_IMAGES/S20_excitation_and_inhibition.png
+
+S21｜00:02:54.000 --> 00:03:03.000｜9秒
+  主轨视频：02_VIDEO/S21_experimental_controls.mp4
+  关键帧/替补：03_IMAGES/S21_experimental_controls.png
+
+S22｜00:03:03.000 --> 00:03:11.000｜8秒
+  主轨视频：02_VIDEO/S22_scattering_and_attenuation.mp4
+  关键帧/替补：03_IMAGES/S22_scattering_and_attenuation.png
+
+S23｜00:03:11.000 --> 00:03:20.000｜9秒
+  主轨视频：02_VIDEO/S23_human_translation_limits.mp4
+  关键帧/替补：03_IMAGES/S23_human_translation_limits.png
+
+S24｜00:03:20.000 --> 00:03:28.000｜8秒
+  主轨视频：02_VIDEO/S24_not_mind_reading.mp4
+  关键帧/替补：03_IMAGES/S24_not_mind_reading.png
+
+S25｜00:03:28.000 --> 00:03:36.000｜8秒
+  主轨视频：02_VIDEO/S25_mechanism_recap.mp4
+  关键帧/替补：03_IMAGES/S25_mechanism_recap.png
+
+S26｜00:03:36.000 --> 00:03:43.000｜7秒
+  主轨视频：02_VIDEO/S26_closing_question.mp4
+  关键帧/替补：03_IMAGES/S26_closing_question.png
+
+音频与字幕（分轨叠加，不能接在S26之后）：
+  A1 必需：05_AUDIO/narration_zh.wav｜00:00:00.000 --> 00:03:43.000
+  A2 可选：05_AUDIO/bgm_ambient.wav｜00:00:00.000 --> 00:03:43.000
+  C1 已创建：06_SUBTITLES/subtitles.srt｜导入字幕轨，正式配音后复核。
+
+文字和科学标注：按timeline.csv的T1行在剪映内创建，不需要导入虚构的媒体文件。
+timeline.csv是人工装配参考，不是剪映工程文件，也不声称能一键导入时间线。
